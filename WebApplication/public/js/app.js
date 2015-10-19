@@ -7,7 +7,8 @@ var guessBlissApp =
             'ngSanitize',
             'ngCookies',
             'ngAnimate',
-            'ngRoute'
+            'ngRoute',
+            'ui.bootstrap'
     ]);
 
 
