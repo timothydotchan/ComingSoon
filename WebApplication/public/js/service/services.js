@@ -1,4 +1,4 @@
-thinkRecursionApp.factory('postRepository', function($http, $q) {
+guessBlissApp.factory('postRepository', function($http, $q) {
 
     var get= function(){
             var deferred = $q.defer();
